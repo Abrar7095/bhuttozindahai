@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-27T10:12:14 PKT" name="Default suite" finished-at="2023-04-27T10:14:32 PKT" duration-ms="137823">
+    <groups>
+    </groups>
+    <test started-at="2023-04-27T10:12:14 PKT" name="Default test" finished-at="2023-04-27T10:14:32 PKT" duration-ms="137823">
+      <class name="bhuttozindahai.NetFlix">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:bhuttozindahai.NetFlix@7c7b252e]" started-at="2023-04-27T10:12:14 PKT" name="LaunchBrowser" finished-at="2023-04-27T10:12:43 PKT" duration-ms="28896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="loginfunctionality()[pri:0, instance:bhuttozindahai.NetFlix@7c7b252e]" started-at="2023-04-27T10:12:43 PKT" name="loginfunctionality" finished-at="2023-04-27T10:14:11 PKT" duration-ms="87984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfunctionality -->
+        <test-method signature="signin()[pri:0, instance:bhuttozindahai.NetFlix@7c7b252e]" started-at="2023-04-27T10:14:11 PKT" name="signin" finished-at="2023-04-27T10:14:30 PKT" duration-ms="18345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method is-config="true" signature="terminatebrowser()[pri:0, instance:bhuttozindahai.NetFlix@7c7b252e]" started-at="2023-04-27T10:14:30 PKT" name="terminatebrowser" finished-at="2023-04-27T10:14:32 PKT" duration-ms="2275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminatebrowser -->
+      </class> <!-- bhuttozindahai.NetFlix -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
