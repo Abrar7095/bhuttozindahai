@@ -151,6 +151,7 @@ public class NetFlix {
     public void terminatebrowser() {
     	driver.quit();
     }
+
 	
 	
 	
